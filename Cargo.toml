@@ -1,7 +1,9 @@
 [package]
 name = "cdcx913"
+description = "Driver for the TI CDCE(L)913 programmable 1-PLL clock synthesizer chip"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 arbitrary-int = {version = "2.0.0", features = ["defmt"]}
